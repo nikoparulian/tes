@@ -1,0 +1,10 @@
+1. algoritma
+2.Buble Sort,Merge Sort, Selection Sort
+3. Brute Force
+4. Greedy
+5. Algoritma Divide and Conquer memiliki kelebihan yang membuatnya banyak diterapkan dan digunakan dalam aplikasi-aplikasi dunia nyata, diantaranya : 
+o   Mampu menyelesaikan masalah yang sulit, algoritma ini mampu menyelesaikan masalah rumit yang hingga kini masih cukup sulit dipecahkan oleh komputer biasa, seperti Tower of Hanoi Problem. 
+o   Algoritma lebih efisien untuk beberapa kasus tertentu, misalnya kasus Fast Fourier Transform maupun Sorting dapat dilakukan dengan kompleksitas algoritma O(n log n) dari algoritma lainnya yang hanya mampu mencapai kompleksitas O (n2). 
+o   Algoritma ini dapat bekerja secara paralel dan dapat memaksimalkan penggunaan dari cache memory.
+
+6. Algoritma backtracking bekerja secara rekursif dan melakukan pencarian solusi persoalan secara sistematis pada semua kemungkinan solusi yang ada,pencarian solusi dilakukan dengan menelusuri struktur berbentuk pohon berakar secara preorder,Algoritma backtracking merupakan bentuk tipikal  dari algoritma rekursif,
